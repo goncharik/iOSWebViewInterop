@@ -2,6 +2,8 @@
 
 This repo contains the full source code for iOSWebViewInterop, an iOS app that shows how to make bidirectional interop between iOS app and HTML/JS from WKWebView
 
+![example.gif](example.gif)
+
 ---
 
 * [Requirements](#requirements)
